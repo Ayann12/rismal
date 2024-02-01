@@ -101,6 +101,12 @@
     padding: 2rem 1rem;
 }
 
+.txt-jelas {
+    font-size: 14px;
+    text-align: left;
+    font-weight: 300;
+}
+
 #prestasi {
     padding: 2rem 1rem;
     background: #b9f1be;
