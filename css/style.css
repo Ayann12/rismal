@@ -72,15 +72,29 @@
     text-align: center;
 }
 
+.imgan {
+    width: 100%;
+    height: 100%;
+}
+
 .col h2 {
     text-transform: uppercase;
     color: #14ac21;
     font-weight: 700;
 }
 
+.txt-p {
+    font-size: 14px;
+    text-align: justify;
+}
+
 #struktur {
     padding: 2rem 1rem;
     background: #b9f1be;
+}
+
+.text-m {
+    font-size: 16px;
 }
 
 #phbi {
